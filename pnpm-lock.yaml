@@ -9,30 +9,30 @@ dependencies:
     specifier: 13.5.5
     version: 13.5.5(react-dom@18.2.0)(react@18.2.0)
   react:
-    specifier: ^18
+    specifier: '18'
     version: 18.2.0
   react-dom:
-    specifier: ^18
+    specifier: '18'
     version: 18.2.0(react@18.2.0)
 
 devDependencies:
   autoprefixer:
-    specifier: ^10
+    specifier: '10'
     version: 10.4.16(postcss@8.4.31)
   eslint:
-    specifier: ^8
+    specifier: '8'
     version: 8.51.0
   eslint-config-next:
     specifier: 13.5.5
     version: 13.5.5(eslint@8.51.0)(typescript@5.2.2)
   postcss:
-    specifier: ^8
+    specifier: '8'
     version: 8.4.31
   standard:
-    specifier: ^17.1.0
+    specifier: 17.1.0
     version: 17.1.0
   tailwindcss:
-    specifier: ^3
+    specifier: '3'
     version: 3.3.3
 
 packages:
